@@ -85,13 +85,3 @@ body {
     margin-bottom: 5px;
   }
   
-  #pic{
-    display: inline-flex;
-  }
-  #pics {
-    width: 45px;
-    height: 45px;
-    margin-left: 25px;
-    margin-top: 2px;
-    border-radius: 25px;
-  }
